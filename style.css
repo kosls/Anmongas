@@ -3,9 +3,9 @@ body{
 }
 #btn{
     background: red;
-    font-size: 50px;
+    font-size: 250px;
     font-family: Arial, Helvetica, sans-serif;
-    border: 2px solid lightslategray;
+    border: 15px solid lightslategray;
     border-radius: 25px;
     display: flex;
     justify-content: center;
@@ -16,5 +16,5 @@ body{
     transform: translate(-50%, -50%);
 }
 #btn:active{
-    font-size: 45px;
+    font-size: 245px;
 }
